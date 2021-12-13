@@ -1,0 +1,6 @@
+﻿  ConvexHull.cpp
+D:\C++\BryanPracticeCode3\ConvexHull\ConvexHull.cpp(13,29): warning C4305: 'initializing': truncation from '__int64' to 'int'
+D:\C++\BryanPracticeCode3\ConvexHull\ConvexHull.cpp(13,17): warning C4309: 'initializing': truncation of constant value
+D:\C++\BryanPracticeCode3\ConvexHull\ConvexHull.cpp(14,29): warning C4305: 'initializing': truncation from '__int64' to 'int'
+D:\C++\BryanPracticeCode3\ConvexHull\ConvexHull.cpp(14,17): warning C4309: 'initializing': truncation of constant value
+  ConvexHull.vcxproj -> D:\C++\BryanPracticeCode3\Debug\ConvexHull.exe
